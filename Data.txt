@@ -1,0 +1,4 @@
+Birthday_data = {'David': '03.03.1994', 'George': '12.01.1991', 'Andrey': '09/05/1990'}
+SSN = {'David': '23423443', 'George': '343423423', 'Andrey': '34333432'}
+Account_Type = {'David': 'Checking', 'George': 'Saving', 'Andrey': 'Checking'}
+ERROR = {}
